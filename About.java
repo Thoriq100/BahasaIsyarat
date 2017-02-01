@@ -41,11 +41,11 @@ public class About {
 		frmAbout.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		frmAbout.getContentPane().setLayout(null);
 		
-		JLabel lblNewLabel = new JLabel("FETTY AULIA SABATINI");
+		JLabel lblNewLabel = new JLabel("TORIQ ZIADI RACHMAN");
 		lblNewLabel.setBounds(10, 11, 250, 14);
 		frmAbout.getContentPane().add(lblNewLabel);
 		
-		JLabel lblNewLabel_1 = new JLabel("NIM : 2012081061");
+		JLabel lblNewLabel_1 = new JLabel("NIM : 06533");
 		lblNewLabel_1.setBounds(10, 36, 250, 14);
 		frmAbout.getContentPane().add(lblNewLabel_1);
 		
@@ -53,7 +53,7 @@ public class About {
 		lblNewLabel_2.setBounds(10, 61, 250, 14);
 		frmAbout.getContentPane().add(lblNewLabel_2);
 		
-		JLabel lblNewLabel_3 = new JLabel("Fakultas Ilmu Komputer");
+		JLabel lblNewLabel_3 = new JLabel("TEKNIK INFORMATIKA");
 		lblNewLabel_3.setBounds(10, 75, 250, 14);
 		frmAbout.getContentPane().add(lblNewLabel_3);
 		
@@ -61,7 +61,7 @@ public class About {
 		lblUniversitasKuningan.setBounds(10, 94, 250, 14);
 		frmAbout.getContentPane().add(lblUniversitasKuningan);
 		
-		JLabel lblNewLabel_4 = new JLabel("Copyright (c) 2016 | Fetty Aulia Sabatini");
+		JLabel lblNewLabel_4 = new JLabel("Copyright (c) 2016 | TORIQ ZIADI RACHMAN");
 		lblNewLabel_4.setBounds(10, 119, 250, 14);
 		frmAbout.getContentPane().add(lblNewLabel_4);
 	}
