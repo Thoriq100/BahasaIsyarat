@@ -351,7 +351,7 @@ public class RecognizeByImage {
 		btnRecognize.setBounds(105, 424, 150, 25);
 		frameRecognize.getContentPane().add(btnRecognize);
 		
-		JLabel label = new JLabel("FETTY AULIA SABATINI (2012081061)");
+		JLabel label = new JLabel("TORIQ ZIADI RACHMAN (2015.1.06533)");
 		label.setHorizontalAlignment(SwingConstants.RIGHT);
 		label.setBounds(170, 565, 564, 15);
 		frameRecognize.getContentPane().add(label);
