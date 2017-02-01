@@ -142,7 +142,7 @@ public class Sampling extends JFrame implements WindowListener {
 		btnCapture.setBounds(402, 11, 150, 35);
 		frmSampling.getContentPane().add(btnCapture);
 		
-		label = new JLabel("FETTY AULIA SABATINI (2012081061)");
+		label = new JLabel("TORIQ ZIADI RACHMAN (2015.1.06533)");
 		label.setHorizontalAlignment(SwingConstants.RIGHT);
 		label.setBounds(370, 346, 216, 15);
 		frmSampling.getContentPane().add(label);
