@@ -226,7 +226,7 @@ public class Recognize extends JFrame implements WindowListener {
 		button.setBounds(10, 372, 350, 44);
 		frmPengenalan.getContentPane().add(button);
 		
-		JLabel label_3 = new JLabel("FETTY AULIA SABATINI (2012081061)");
+		JLabel label_3 = new JLabel("TORIQ ZIADI RACHMAN (2015.1.06533)");
 		label_3.setHorizontalAlignment(SwingConstants.RIGHT);
 		label_3.setBounds(10, 435, 555, 15);
 		frmPengenalan.getContentPane().add(label_3);
