@@ -61,7 +61,7 @@ public class Introduce {
 		btnHome.setBounds(10, 11, 414, 219);
 		frame.getContentPane().add(btnHome);
 		
-		JLabel lblNewLabel = new JLabel("FETTY AULIA SABATINI (2012081061)");
+		JLabel lblNewLabel = new JLabel("TORIQ ZIADI RACHMAN (2015.1.06533)");
 		lblNewLabel.setHorizontalAlignment(SwingConstants.RIGHT);
 		lblNewLabel.setBounds(10, 238, 414, 14);
 		frame.getContentPane().add(lblNewLabel);
