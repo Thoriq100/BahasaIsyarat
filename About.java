@@ -57,7 +57,7 @@ public class About {
 		lblNewLabel_3.setBounds(10, 75, 250, 14);
 		frmAbout.getContentPane().add(lblNewLabel_3);
 		
-		JLabel lblUniversitasKuningan = new JLabel("Universitas Kuningan");
+		JLabel lblUniversitasKuningan = new JLabel("ITATS");
 		lblUniversitasKuningan.setBounds(10, 94, 250, 14);
 		frmAbout.getContentPane().add(lblUniversitasKuningan);
 		
